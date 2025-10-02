@@ -17,7 +17,7 @@
 
 ### 🔗 Related Issue
 
-Closes #163 
+Closes #[issue_number] <!-- Replace with the issue number this PR addresses -->
 
 ### ✅ Checklist
 
@@ -33,7 +33,7 @@ Closes #163
 
 ### 📚 Additional Notes
 
-**Any additional information or context about the pull request:*
+**Any additional information or context about the pull request:**
 
 [Add any additional information or context about the pull request here.]
 
